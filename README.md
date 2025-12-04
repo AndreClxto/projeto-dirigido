@@ -138,14 +138,6 @@ npm run build    # Cria versão otimizada para produção
 npm run preview  # Preview da versão de produção
 ```
 
-## 👨‍💻 Desenvolvimento
-
-Projeto desenvolvido para disciplina acadêmica.
-
-**Autor:** [Seu Nome]
-**RA:** [Seu RA]
-**Data:** Dezembro 2025
-
 ## 📄 Licença
 
 Projeto acadêmico - Livre para uso educacional.
