@@ -1,0 +1,18 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+
+# Banco de dados
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# Go
+go.sum
+vendor/
